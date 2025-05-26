@@ -1,1 +1,1 @@
-# This   is the readem vesrion in vs code in my local repo
+# This   is the readme version in vs code in my local repo
